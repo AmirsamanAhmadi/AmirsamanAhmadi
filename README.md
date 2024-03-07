@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/D5603AQF1ksWREnb5tQ/profile-displayphoto-shrink_800_800/0/1708454057300?e=1715212800&v=beta&t=IfZ-T2OC73_Dh0j_1Je54_aS3UdF6MCPIK6o0cL2CJQ"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -72,11 +68,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/AmirsamanAhmadi/AmirsamanAhmadi/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
 
 ###
